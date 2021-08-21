@@ -1,6 +1,0 @@
-E:\GGYYWork\XGameFramework\Assets\StreamingAssets\HotFix_Project.dll
-E:\GGYYWork\XGameFramework\Assets\StreamingAssets\HotFix_Project.pdb
-E:\GGYYWork\XGameFramework\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csprojAssemblyReference.cache
-E:\GGYYWork\XGameFramework\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.CoreCompileInputs.cache
-E:\GGYYWork\XGameFramework\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.dll
-E:\GGYYWork\XGameFramework\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.pdb
