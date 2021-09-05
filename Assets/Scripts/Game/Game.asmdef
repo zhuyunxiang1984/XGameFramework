@@ -2,7 +2,9 @@
     "name": "Game",
     "rootNamespace": "XGameFrameworkHotfix",
     "references": [
-        "GUID:4b3e9ceb71f5e0e47a7db37d5643d23d"
+        "GUID:4b3e9ceb71f5e0e47a7db37d5643d23d",
+        "GUID:d73219df766219e4984db58a8d258c7c",
+        "GUID:197db511ff20c95489ab465786269120"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
